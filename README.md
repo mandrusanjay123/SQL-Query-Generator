@@ -48,11 +48,6 @@ The interface allows users to:
 2. Generate the corresponding SQL query.
 3. Display expected output as a sample table.
 
-## 🎯 Future Improvements
-* 🌐 Expand support for other types of database queries.
-* 📊 Add an option for advanced SQL optimizations.
-* 🚀 Deploy on a cloud platform for global access.
-
 ## 🤝 Contributing
 We welcome contributions! Follow these steps to contribute:
 
