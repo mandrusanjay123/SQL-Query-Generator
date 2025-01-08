@@ -7,7 +7,7 @@ The **SQL Query Generator** is a tool designed to generate SQL queries from plai
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/mandrusanjay123/SQL-Query-Generator-.git
+git clone https://github.com/mandrusanjay123/SQL-Query-Generator.git
 ```
 
 ### 2. Navigate to the project directory:
